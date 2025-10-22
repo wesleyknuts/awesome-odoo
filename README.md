@@ -103,6 +103,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Odoo](https://www.odoo.com/) - Official Site
 - [OCA](https://odoo-community.org/) - Community Association Official Site
+- [Odoo.sh](https://www.odoo.sh/) - Official cloud platform for hosting and deployment.
 - [Help Forum] (https://help.odoo.com) - Community maintained Q&A Site
 - [Odoo Apps Store](https://apps.odoo.com/apps) - Official Apps Store
 - [OCA Apps Store](https://odoo-community.org/shop) - OCA Apps Store
