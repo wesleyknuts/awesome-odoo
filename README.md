@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 - Script
     - [Odoo Install Script](https://github.com/Yenthe666/InstallScript) - Install Script by Yenthe Van Ginneken
+    - [Odoo Scaffold](https://github.com/Vauxoo/odoo-scaffold) - Create modules based on templates from command line.
     - [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
     - [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
     - [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module.
