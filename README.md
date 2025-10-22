@@ -55,6 +55,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Design Themes](https://github.com/odoo/design-themes) - Design Themes Official Repositories
 - [Odoo Documentation](https://github.com/odoo/documentation) - Documentation Official Repositories
 - [Odoo OWL web framework](https://github.com/odoo/owl) - OWL web framework Official Repositories
+- [Odoo Tutorials](https://github.com/odoo/tutorials) - Official tutorial code with bases and solutions for learning.
 - [Vauxoo](https://github.com/vauxoo) - The GitHub repos of Vauxoo an OpenSource Specialists and Odoo's Gold Partner
 - [Moldeo Interactive](https://github.com/ctmil) - The GitHub repos of Moldeo Interactive an Company based in Argentina, development on Odoo
 - [Ingeniería Adhoc](https://github.com/ingadhoc) - The GitHub repos of Ing. Adhoc, modules and Argentine localization.
